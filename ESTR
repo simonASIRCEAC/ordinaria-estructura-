@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>SIMON ELA ELA OYANA</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+      <!-- ESTO SERA LA CABEZA -->
+    </header>
+    <main>
+      <!-- AQUI SERA LA PARTE PRINCIPAL -->
+    </main>
+    <footer>
+      <!--  AQUI SERA EL PIE DE LA PAGINA  -->
+    </footer>
+  </body>
+</html>
